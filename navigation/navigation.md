@@ -6,3 +6,6 @@
 ###### Selection
 - Select word: ⇧ + ⌥ + ← / →
 - Select element (word/operand/variable): ⇧ + ⌃ + ← / →
+
+###### Edit
+- Place inline arguments in separated lines: ⌃ + m
