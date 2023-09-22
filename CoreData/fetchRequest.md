@@ -3,6 +3,7 @@
 - predicate: takes NSPredicate and filters results according it
 
 ##### predicate: NSPredicate(format: format)
+Source: [Filtering @FetchRequest using NSPredicate](https://www.hackingwithswift.com/books/ios-swiftui/filtering-fetchrequest-using-nspredicate)
 ###### format:
 - `"fieldname == 'pattern'"` - where fieldname is fieldtitle in Core Data, pattern is some string for comparison
 - `"fieldname == %@", "pattern"` - the same as previous
