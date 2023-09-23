@@ -14,3 +14,5 @@ Source: [Filtering @FetchRequest using NSPredicate](https://www.hackingwithswift
 - `"fieldname CONTAINS %@", "pattern"` - case sensitive
 - `"fieldname CONTAINS[c] %@", "pattern"` - case insensitive
 - `"NOT fieldname BEGINSWITH %@", "pattern"` - negative filtration
+- `"%K BEGINSWITH %@", "keyName", "pattern"` - add keyName for dynamic filtration
+(source: [Dynamically filtering @FetchRequest](https://youtu.be/O4043RVjCGU?si=iWtU0dy5ZlQy3dz7))
