@@ -9,3 +9,6 @@
 
 ###### Edit
 - Place inline arguments in separated lines: ⌃ + m
+
+###### Search
+- Show quick search: ⇧ + ⌘ + O
