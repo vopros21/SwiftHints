@@ -9,8 +9,9 @@
 - Select element (word/operand/variable): ⇧ + ⌃ + ← / →
 
 ###### Edit
-- Formatt to multiple lines: ⌃ + m
-- Re-indent: ⌃ + i
+- Formatt to multiple lines: ⌃ + M
+- Re-indent: ⌃ + I
+- Add next occurance to the selection: ⌥ + ⌘ + E
 
 ###### Search
 - Show quick search: ⇧ + ⌘ + O
