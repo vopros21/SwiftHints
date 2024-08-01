@@ -1,17 +1,17 @@
 #### Hotkeys to navigate (select, perform changes) in XCode.
 ###### Editor view
-- Fold current block: ⌥ + ⌘ + ← / →
-- Fold methods and functions blocks: ⇧ + ⌥ + ⌘ + ← / →
-- Fold comment blocks: ⇧ + ⌃ + ⌘ + ← / →
+- Fold current block: <kbd>⌥</kbd> + <kbd>⌘</kbd> + <kbd>←</kbd> / <kbd>→</kbd>
+- Fold methods and functions blocks: <kbd>⇧</kbd> + <kbd>⌥</kbd> + <kbd>⌘</kbd> + <kbd>←</kbd> / <kbd>→</kbd>
+- Fold comment blocks: <kbd>⇧</kbd> + <kbd>⌃</kbd> + <kbd>⌘</kbd> + <kbd>←</kbd> / <kbd>→</kbd>
 
 ###### Selection
-- Select word: ⇧ + ⌥ + ← / →
-- Select element (word/operand/variable): ⇧ + ⌃ + ← / →
+- Select word: <kbd>⇧</kbd> + <kbd>⌥</kbd> + <kbd>←</kbd> / <kbd>→</kbd>
+- Select element (word/operand/variable): <kbd>⇧</kbd> + <kbd>⌃</kbd> + <kbd>←</kbd> / <kbd>→</kbd>
 
 ###### Edit
-- Formatt to multiple lines: ⌃ + M
-- Re-indent: ⌃ + I
-- Add next occurance to the selection: ⌥ + ⌘ + E
+- Formatt to multiple lines: <kbd>⌃</kbd> + <kbd>M</kbd>
+- Re-indent: <kbd>⌃</kbd> + <kbd>I</kbd>
+- Add next occurance to the selection: <kbd>⌥</kbd> + <kbd>⌘</kbd> + <kbd>E</kbd>
 
 ###### Search
-- Show quick search: ⇧ + ⌘ + O
+- Show quick search: <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>O</kbd>
